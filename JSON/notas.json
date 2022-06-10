@@ -1,148 +1,22 @@
 {
-    "NotasAluno": [
-        {
-            "nome": "Gabriel",
-            "sobrenome": "Coelho",
-            "disciplina": [
-                {
-                    "Portugues": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "Matemática": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "Geografia": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "História": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "nome": "Antonio",
-            "sobrenome": "Costa",
-            "disciplina": [
-                {
-                    "Portugues": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "Matemática": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "Geografia": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "História": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "nome": "Gabriel",
-            "sobrenome": "Ferreira",
-            "disciplina": [
-                {
-                    "Portugues": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "Matemática": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "Geografia": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "História": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "nome": "Barbara",
-            "sobrenome": "Novaes",
-            "disciplina": [
-                {
-                    "Portugues": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "Matemática": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "Geografia": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ],
-                    "História": [
-                        {
-                            "primeiranota": 10,
-                            "segundanota": 10,
-                            "media": 10
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"Gabriel Coelho": {
+		"A1": 10,
+		"A2": 10,
+		"media": 10
+	},
+	"Antonio Costa": {
+		"A1": 8.5,
+		"A2": 9.0,
+		"media": 8.75
+	},
+	"Gabriel Ferreira": {
+		"A1": 10,
+		"A2": 10,
+		"media": 10
+	},
+	"Barbara Novaes": {
+		"A1": 10,
+		"A2": 10,
+		"media": 10
+	}
 }
