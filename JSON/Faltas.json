@@ -5,7 +5,7 @@
             "sobrenome": "Coelho",
             "disciplina": [
                 {
-                    "Portugues": [
+                    "Português": [
                         {
                             "faltas": 3
                         }
@@ -33,7 +33,7 @@
             "sobrenome": "Costa",
             "disciplina": [
                 {
-                    "Portugues": [
+                    "Português": [
                         {
                             "faltas": 6
                         }
@@ -61,7 +61,7 @@
             "sobrenome": "Ferreira",
             "disciplina": [
                 {
-                    "Portugues": [
+                    "Português": [
                         {
                             "faltas": 10
                         }
@@ -89,7 +89,7 @@
             "sobrenome": "Novaes",
             "disciplina": [
                 {
-                    "Portugues": [
+                    "Português": [
                         {
                             "faltas": 4
                         }

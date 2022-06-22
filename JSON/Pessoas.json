@@ -6,7 +6,7 @@
             "idade": 10,
             "responsavel": "Keilla",
             "diciplina": [
-                "Portugues",
+                "Português",
                 "Matemática",
                 "História",
                 "Geografia"
@@ -22,7 +22,7 @@
             "idade": 9,
             "responsavel": "Ricardo",
             "diciplina": [
-                "Portugues",
+                "Português",
                 "Matemática",
                 "História",
                 "Geografia"
@@ -37,13 +37,13 @@
             "idade": 10,
             "responsavel": "Bruno",
             "diciplina": [
-                "Portugues",
+                "Português",
                 "Matemática",
                 "História",
                 "Geografia"
             ],
             "DiciplinaEx": [
-                "futebol"
+                "Futebol"
             ]
         },
         {
@@ -52,13 +52,13 @@
             "idade": 9,
             "responsavel": "Paula",
             "diciplina": [
-                "Portugues",
+                "Português",
                 "Matemática",
                 "História",
                 "Geografia"
             ],
             "DiciplinaEx": [
-                "futebol"
+                "Futebol"
             ]
         }
     ],
@@ -69,7 +69,7 @@
             "idade": 30,
             "responsavelPor": "Gabriel Coelho",
             "diciplina": [
-                "Portugues",
+                "Português",
                 "Matemática",
                 "História",
                 "Geografia"
@@ -85,7 +85,7 @@
             "idade": 32,
             "responsavelPor": "Barbara Novaes",
             "diciplina": [
-                "Portugues",
+                "Português",
                 "Matemática",
                 "História",
                 "Geografia"
@@ -100,13 +100,13 @@
             "idade": 40,
             "responsavelPor": "Antonio Costa",
             "diciplina": [
-                "Portugues",
+                "Português",
                 "Matemática",
                 "História",
                 "Geografia"
             ],
             "DiciplinaEx": [
-                "futebol"
+                "Futebol"
             ]
         },
         {
@@ -115,13 +115,13 @@
             "idade": 39,
             "responsavelPor": "Gabriel Ferreira",
             "diciplina": [
-                "Portugues",
+                "Português",
                 "Matemática",
                 "História",
                 "Geografia"
             ],
             "DiciplinaEx": [
-                "futebol"
+                "Futebol"
             ]
         }
     ],
@@ -130,7 +130,7 @@
             "nome": "Emanuel",
             "sobrenome": "Santos",
             "diciplinas": [
-                "Portugues",
+                "Português",
                 "Matemática"
             ]
         },
